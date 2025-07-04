@@ -3,7 +3,7 @@
     "team_name": "THM",
     "approach_description": "This is my strategy ......_____ PROMPT: write new prompts fitting the subject, diseguard results (marked by >) if they dont add to the context _____ INSTRUCTION: You are required to return EXACTLY %NUMOFQUERIES% potential next queries, NOTHING ELSE. Queries need to be distinct from each other. Order them in descending order by probability of them being the next query. Return these next %NUMOFQUERIES% queries as a Python-style list. These are the previous queries (preceded by \"?\") as well as the corresponding clicked on documents (preceded by \">\"):\n _____ LLM: gemini-2.0-flash",
     "task": "A_1",
-    "run_name": "Nils"
+    "run_name": "Nils0"
   },
   "1": [
     "\"readership demographics of online vs hardcopy newspapers in Nigeria\",",
